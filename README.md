@@ -29,8 +29,8 @@ optional arguments:
 
 Note that multiple files can be specified with wildcards or as a list.  The graph below was generated with the included data files and the following command line:
 
-'''
+```
 ./plotLog.py pingLog.* --title="Spectrum Ping" --ylabel="milliseconds"
-'''
+```
 
-![sample plot](/SpectrumPingSept15_2020.png)
+![sample plot](/data/SpectrumPingSept15_2020.png)
