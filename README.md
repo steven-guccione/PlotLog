@@ -33,4 +33,4 @@ Note that multiple files can be specified with wildcards or as a list.  The grap
 ./plotLog.py pingLog.* --title="Spectrum Ping" --ylabel="milliseconds"
 '''
 
-![sample plot]/SpectrumPingSept15_2020.png
+![sample plot](/SpectrumPingSept15_2020.png)
